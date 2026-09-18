@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sdbqgfqxrnn.github.io/sitemap.xml
